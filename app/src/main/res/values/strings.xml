@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">webpagesource</string>
+    <string name="enterURL">Enter URL:</string>
+    <string name="http">http://</string>
+    <string name="get_page_source">GET PAGE SOURCE</string>
+    <string name="page_source_will_appear_here">Page source will appear here</string>
+    <string name="www_example_com">www.example.com</string>
+</resources>
